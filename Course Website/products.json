@@ -1,0 +1,52 @@
+{
+    "items": [{
+        "sys": { "id": "1" },
+        "fields": {
+            "title": "Python Programming Mastercourse",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/home.jpg" } } }
+        },
+        "sys": { "id": "2" },
+        "fields": {
+            "title": "C++ Mastercourse",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/C++.png" } } }
+        },
+        "sys": { "id": "3" },
+        "fields": {
+            "title": "Web Development for Beginners",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/web2.png" } } }
+        },
+        "sys": { "id": "4" },
+        "fields": {
+            "title": "Java Programming Mastercourse",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/java.png" } } }
+        },
+        "sys": { "id": "5" },
+        "fields": {
+            "title": "Digital Marketing Full Course",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/Marketing.png" } } }
+        },
+        "sys": { "id": "6" },
+        "fields": {
+            "title": "Advanced Web Development",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/web.png" } } }
+        },
+        "sys": { "id": "7" },
+        "fields": {
+            "title": "Artificial Intelligence Full Course",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/home.jpg" } } }
+        },
+        "sys": { "id": "9" },
+        "fields": {
+            "title": " Data Science Mastercourse",
+            "price": 123.99,
+            "image": { "fields": { "file": { "url": "images/Data.png.jpg" } } }
+        }
+    }]
+}
